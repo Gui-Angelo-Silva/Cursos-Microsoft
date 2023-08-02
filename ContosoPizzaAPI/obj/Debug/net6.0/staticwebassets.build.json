@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "YIWlE9bpYGHcUWOVThQywCgZyildlGb8Bin5c51uBNk=",
+  "Source": "ContosoPizzaAPI",
+  "BasePath": "_content/ContosoPizzaAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
